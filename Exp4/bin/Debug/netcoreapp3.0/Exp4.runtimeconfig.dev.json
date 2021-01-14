@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/DWave/.dotnet/store/|arch|/|tfm|",
+      "/home/DWave/.nuget/packages"
+    ]
+  }
+}

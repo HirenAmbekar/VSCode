@@ -1,0 +1,11 @@
+/home/DWave/VSCodeProjects/Exp5/bin/Debug/netcoreapp3.0/Exp5
+/home/DWave/VSCodeProjects/Exp5/bin/Debug/netcoreapp3.0/Exp5.deps.json
+/home/DWave/VSCodeProjects/Exp5/bin/Debug/netcoreapp3.0/Exp5.runtimeconfig.json
+/home/DWave/VSCodeProjects/Exp5/bin/Debug/netcoreapp3.0/Exp5.runtimeconfig.dev.json
+/home/DWave/VSCodeProjects/Exp5/bin/Debug/netcoreapp3.0/Exp5.dll
+/home/DWave/VSCodeProjects/Exp5/bin/Debug/netcoreapp3.0/Exp5.pdb
+/home/DWave/VSCodeProjects/Exp5/obj/Debug/netcoreapp3.0/Exp5.csprojAssemblyReference.cache
+/home/DWave/VSCodeProjects/Exp5/obj/Debug/netcoreapp3.0/Exp5.AssemblyInfoInputs.cache
+/home/DWave/VSCodeProjects/Exp5/obj/Debug/netcoreapp3.0/Exp5.AssemblyInfo.cs
+/home/DWave/VSCodeProjects/Exp5/obj/Debug/netcoreapp3.0/Exp5.dll
+/home/DWave/VSCodeProjects/Exp5/obj/Debug/netcoreapp3.0/Exp5.pdb
